@@ -1,5 +1,6 @@
 public class Loan {
     //Added minor changes as testing
+    //Testing Level-2 tagging
     private String borrower;
     private int amount;
     private boolean isPaid;
