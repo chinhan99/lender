@@ -1,4 +1,5 @@
 public class Loan {
+    //Added minor changes as testing
     private String borrower;
     private int amount;
     private boolean isPaid;
